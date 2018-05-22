@@ -1,0 +1,104 @@
+
+/*body has backgorund color of blue-that is all*/
+body 
+{
+	   background-color: rgb(0,0,102);
+}
+
+/*mainbox used for main dialog of webpage*/
+.mainbox
+{
+	background-color: rgb(255,255,255);
+	border-style: groove;
+    border-color: rgb(255,204,51);
+    border-width:thick;
+    width:600px;
+    height:1200px;
+    padding: 10px;
+    position:absolute;
+    left:325px;
+    top: 150px;
+    bottom:10px;
+}
+
+/*linkbox used for links on the webpage*/
+.linkbox
+{
+	background-color: rgb(255,255,255);
+	border-style: groove;
+    border-color: rgb(255,204,51);
+    border-width:thick;
+    width:200px;
+    height:1200px;
+    padding: 10px;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    bottom:10px;
+}
+
+/*box for logos at top of page*/
+.uofmbox
+{
+	background-color: rgb(255,255,255);
+	border-style: groove;
+    border-color: rgb(255,204,51);
+    border-width:thick;
+    width:825px;
+    height:110px;
+    padding: 10px;
+    position: absolute;
+    left:100px;
+    margin-left: auto;
+    margin-right: auto; 
+	
+}
+
+
+/*box for picture of games*/
+.gamebox
+{
+    border-style: none;
+    width:100px;
+    height:80px;
+    position: absolute;
+    top: 23px;
+    left:665px;
+    margin-left: auto;
+    margin-right: auto; 
+	
+}
+
+
+/*Table for contact for website*/
+table.contacts
+{
+table-layout: auto;
+background-color: rgb(255,204,51);
+
+}
+
+h2
+{
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+h3
+{
+	font-family: sans-serif;
+}
+
+p
+{
+	font-family: sans-serif;
+	font-size: small;
+}
+
+caption
+{
+	font-size:larger;
+	font-weight: bold;
+    caption-side: top;
+}
+
+
