@@ -1,0 +1,13 @@
+{
+"companyName": "University of Michigan-Dearborn",
+"productName": "Gleaners Pachinko",
+"dataUrl": "Pachinko.data.unityweb",
+"asmCodeUrl": "Pachinko.asm.code.unityweb",
+"asmMemoryUrl": "Pachinko.asm.memory.unityweb",
+"asmFrameworkUrl": "Pachinko.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
